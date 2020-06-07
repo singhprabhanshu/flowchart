@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mlops"
+    }
+  },
+  "defaultProject": "mlops",
+  "cli": {
+    "analytics": false
+  }
 }
